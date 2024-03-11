@@ -1,0 +1,7 @@
+print("Iniciando o 1º Exemplo de Código")
+a = input("Digite um nome: ")
+print("O nome digitado é", a)
+b = int(input("Digite a idade: "))
+print("A idade digitada é", b)
+#print("A idade digitada é: {}".format(b))
+#print(f'A idade digitada é: {b}')
